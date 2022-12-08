@@ -1,16 +1,15 @@
 # nytimes
 
-A new Flutter project.
+A flutter sample to fetch top stories from NewYork Times free API
 
-## Getting Started
+## Requirements
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [SignUp for NewYorkTimes Developer Network APIs](https://developer.nytimes.com)
+- [Get your free key and enable this API from NewYorkTimes Developer Network](https://developer.nytimes.com/docs/top-stories-product/1/overview)
+- Replace your API key in lib/configs.dart and start enjoying 😎
+- Currently, I am fetching top stories from 'technology' section only, you can change the section in api call.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
