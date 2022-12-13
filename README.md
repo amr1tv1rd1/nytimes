@@ -13,3 +13,6 @@ A flutter sample to fetch top stories from NewYork Times free API
 
 
 
+<img width="336" alt="Screenshot 2022-12-13 at 16 38 27" src="https://user-images.githubusercontent.com/8511305/207468915-2e70d40b-97e4-46d6-a537-ec14f72b85ac.png">
+
+
